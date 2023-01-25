@@ -1,2 +1,3 @@
-http://example.com/2023/01/25/hello-world/
-http://example.com/
+http://carissa05.github.io/2023/01/25/My-New-Post/
+http://carissa05.github.io/2023/01/25/hello-world/
+http://carissa05.github.io/
