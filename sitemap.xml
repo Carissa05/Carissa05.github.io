@@ -38,20 +38,6 @@
 
   
   <url>
-    <loc>https://carissa05.github.io/tags/Collection/</loc>
-    <lastmod>2023-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://carissa05.github.io/tags/Cohesive-Subgraph/</loc>
-    <lastmod>2023-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://carissa05.github.io/tags/Paper-Note/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -65,17 +51,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://carissa05.github.io/categories/Collection/</loc>
+    <loc>https://carissa05.github.io/tags/Collection/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://carissa05.github.io/tags/Cohesive-Subgraph/</loc>
+    <lastmod>2023-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://carissa05.github.io/categories/Paper-Note/</loc>
+    <lastmod>2023-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://carissa05.github.io/categories/Collection/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
