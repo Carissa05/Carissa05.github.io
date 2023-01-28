@@ -1,14 +1,10 @@
-http://carissa05.github.io/undefined/Hello-world/
-http://carissa05.github.io/undefined/Cohesive-Subgraph/
+http://carissa05.github.io/collection/Cohesive-Subgraph/
+http://carissa05.github.io/papernote/Hello-world/
 http://carissa05.github.io/papernote/Mobile3DRecon/
 http://carissa05.github.io/
 http://carissa05.github.io/tags/Collection/
 http://carissa05.github.io/tags/Cohesive-Subgraph/
 http://carissa05.github.io/tags/Paper-Note/
 http://carissa05.github.io/tags/Hello-World/
-http://carissa05.github.io/tags/SLAM/
-http://carissa05.github.io/tags/3D-Reconstruction/
-http://carissa05.github.io/tags/Monocular-Camera/
-http://carissa05.github.io/tags/Mobile-Phone/
 http://carissa05.github.io/categories/Collection/
 http://carissa05.github.io/categories/Paper-Note/

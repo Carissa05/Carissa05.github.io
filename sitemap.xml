@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://carissa05.github.io/undefined/Hello-world/</loc>
+    <loc>http://carissa05.github.io/collection/Cohesive-Subgraph/</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/undefined/Cohesive-Subgraph/</loc>
+    <loc>http://carissa05.github.io/papernote/Hello-world/</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -60,34 +60,6 @@
   
   <url>
     <loc>http://carissa05.github.io/tags/Hello-World/</loc>
-    <lastmod>2023-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://carissa05.github.io/tags/SLAM/</loc>
-    <lastmod>2023-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://carissa05.github.io/tags/3D-Reconstruction/</loc>
-    <lastmod>2023-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://carissa05.github.io/tags/Monocular-Camera/</loc>
-    <lastmod>2023-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://carissa05.github.io/tags/Mobile-Phone/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

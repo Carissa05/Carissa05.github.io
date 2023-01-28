@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Cohesive Subgraph</title>
-    <url>/undefined/Cohesive-Subgraph/</url>
+    <url>/collection/Cohesive-Subgraph/</url>
     <content><![CDATA[<p>A collection note about papers in the field of cohesive subgraph search</p>
 <span id="more"></span>
 
@@ -25,7 +25,7 @@
   </entry>
   <entry>
     <title>Hello-world</title>
-    <url>/undefined/Hello-world/</url>
+    <url>/papernote/Hello-world/</url>
     <content><![CDATA[<p>对论文 hello world的整理</p>
 <span id="more"></span>
 
@@ -467,10 +467,6 @@
       </categories>
       <tags>
         <tag>Paper Note</tag>
-        <tag>SLAM</tag>
-        <tag>3D Reconstruction</tag>
-        <tag>Monocular Camera</tag>
-        <tag>Mobile Phone</tag>
       </tags>
   </entry>
 </search>
