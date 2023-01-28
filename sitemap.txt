@@ -1,3 +1,5 @@
+http://carissa05.github.io/tags/index.html
+http://carissa05.github.io/categories/index.html
 http://carissa05.github.io/papernote/Mobile3DRecon/
 http://carissa05.github.io/collection/Cohesive-Subgraph/
 http://carissa05.github.io/papernote/Hello-world/
