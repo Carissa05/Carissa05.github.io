@@ -2058,13 +2058,6 @@ pre code {
 .post-block:last-of-type .post-eof {
   display: none;
 }
-.post-copyright ul {
-  list-style: none;
-  padding: 0.5em 1em;
-  background: var(--card-bg-color);
-  border-left: 3px solid #ff2a2a;
-  margin: 1em 0 0;
-}
 .post-tags {
   margin-top: 40px;
   text-align: center;
@@ -2652,7 +2645,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #cd6f30;
+  background: #ba2d9a;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
