@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://carissa05.github.io/collection/Cohesive-Subgraph/</loc>
+    <loc>http://carissa05.github.io/collection/Cohesive-Subgraph/</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://carissa05.github.io/papernote/Hello-world/</loc>
+    <loc>http://carissa05.github.io/papernote/Hello-world/</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://carissa05.github.io/papernote/Mobile3DRecon/</loc>
+    <loc>http://carissa05.github.io/papernote/Mobile3DRecon/</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>https://carissa05.github.io/</loc>
+    <loc>http://carissa05.github.io/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -38,28 +38,28 @@
 
   
   <url>
-    <loc>https://carissa05.github.io/tags/Paper-Note/</loc>
+    <loc>http://carissa05.github.io/tags/Paper-Note/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://carissa05.github.io/tags/Hello-World/</loc>
+    <loc>http://carissa05.github.io/tags/Hello-World/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://carissa05.github.io/tags/Collection/</loc>
+    <loc>http://carissa05.github.io/tags/Collection/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://carissa05.github.io/tags/Cohesive-Subgraph/</loc>
+    <loc>http://carissa05.github.io/tags/Cohesive-Subgraph/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -68,14 +68,14 @@
 
   
   <url>
-    <loc>https://carissa05.github.io/categories/Paper-Note/</loc>
+    <loc>http://carissa05.github.io/categories/Paper-Note/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://carissa05.github.io/categories/Collection/</loc>
+    <loc>http://carissa05.github.io/categories/Collection/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
