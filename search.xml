@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>the Origin of Cohesive Subgraph</title>
+    <url>/collection/Cohesive-Subgraph/</url>
+    <content><![CDATA[<p>A collection note about the origin of the study of cohesive subgraph search</p>
+<span id="more"></span>
+
+<center><b><font size="9>Cohesive" Subgraph="" Search</font=""></font></b></center>
+
+<h1 id="1-Preface"><a href="#1-Preface" class="headerlink" title="1 Preface"></a>1 Preface</h1><ul>
+<li>All of the data is from Internet or webpages, so I can’t make sure that all of the information is right. If there are some errors, please leave your advice and evidence in issue, I will revise the document as immediately as possible, which is based on your right or convincing advice and evidence.</li>
+<li>It is not easy and troublesome to organize the data. Please give me a <code>star</code> if you like it.</li>
+</ul>
+<h1 id="2-Paper"><a href="#2-Paper" class="headerlink" title="2  Paper"></a>2  Paper</h1><h2 id="2-1-Degree-based-relaxed-clique-models"><a href="#2-1-Degree-based-relaxed-clique-models" class="headerlink" title="2.1 Degree-based relaxed clique models"></a>2.1 Degree-based relaxed clique models</h2><h3 id="2-1-1-K-core"><a href="#2-1-1-K-core" class="headerlink" title="2.1.1  K-core"></a>2.1.1  K-core</h3><p>Paper1: <a href="https://ieeexplore.ieee.org/document/5767911">Efficient core decomposition in massive networks</a><br>Conference/Journal: ICDE, 2011<br>Paper2: <a href="https://ieeexplore.ieee.org/document/6613492">Efficient Core Maintenance in Large Dynamic Graphs</a><br>Conference/Journal: TKDE, 2013</p>
+<h3 id="2-1-2-K-plex"><a href="#2-1-2-K-plex" class="headerlink" title="2.1.2  K-plex"></a>2.1.2  K-plex</h3><p>Paper: <a href="https://www.tandfonline.com/doi/abs/10.1080/0022250X.1978.9989883">A graph‐theoretic generalization of the clique concept</a><br>Conference/Journal: The Journal of Mathematical Sociology, 1978</p>
+<h2 id="2-2-Distance-based-relaxed-clique-models"><a href="#2-2-Distance-based-relaxed-clique-models" class="headerlink" title="2.2 Distance-based relaxed clique models"></a>2.2 Distance-based relaxed clique models</h2><h3 id="2-2-1-R-clique"><a href="#2-2-1-R-clique" class="headerlink" title="2.2.1 R-clique"></a>2.2.1 R-clique</h3><p>Paper: <a href="https://doi.org/10.14778/2021017.2021025">Keyword search in graphs: finding r-cliques</a><br>Conference/Journal: Proceedings of the VLDB Endowment, 2011</p>
+<h3 id="2-2-2-R-club"><a href="#2-2-2-R-club" class="headerlink" title="2.2.2 R-club"></a>2.2.2 R-club</h3><p>Paper: <a href="http://link.springer.com/10.1007/BF00139635">Cliques, clubs and clans</a><br>Conference/Journal: Quality &amp; Quantity, 1979</p>
+<h3 id="2-2-3-R-clan"><a href="#2-2-3-R-clan" class="headerlink" title="2.2.3 R-clan"></a>2.2.3 R-clan</h3><p>Paper: <a href="http://link.springer.com/10.1007/BF00139635">Cliques, clubs and clans</a><br>Conference/Journal: Quality &amp; Quantity, 1979</p>
+<h2 id="2-3-Connectivity-based-relaxed-clique-models"><a href="#2-3-Connectivity-based-relaxed-clique-models" class="headerlink" title="2.3 Connectivity-based relaxed clique models"></a>2.3 Connectivity-based relaxed clique models</h2><h3 id="2-3-1-K-VCC-k-block"><a href="#2-3-1-K-VCC-k-block" class="headerlink" title="2.3.1 K-VCC (k-block)"></a>2.3.1 K-VCC (k-block)</h3><p>Paper1: <a href="https://epubs.siam.org/doi/10.1137/0204043">Network Flow and Testing Graph Connectivity</a><br>Conference/Journal: SIAM Journal on Computing, 1975<br>Paper2: <a href="https://linkinghub.elsevier.com/retrieve/pii/0095895678900710">k-Blocks and ultrablocks in graphs</a><br>Conference/Journal: Journal of Combinatorial Theory, Series B, 1978</p>
+<h3 id="2-3-2-K-bundle"><a href="#2-3-2-K-bundle" class="headerlink" title="2.3.2 K-bundle"></a>2.3.2 K-bundle</h3><p>Paper: <a href="https://www.sciencedirect.com/science/article/pii/S0377221712007679">On clique relaxation models in network analysis</a><br>Conference/Journal: European Journal of Operational Research, 2013</p>
+<h3 id="2-3-3-K-ECC"><a href="#2-3-3-K-ECC" class="headerlink" title="2.3.3 K-ECC"></a>2.3.3 K-ECC</h3><p>Paper: <a href="https://doi.org/10.1145/2983323.2983748">Querying Minimal Steiner Maximum-Connected Subgraphs in Large Graphs</a><br>Conference/Journal: CIKM, 2016</p>
+<h2 id="2-4-Edge-based-relaxed-clique-models"><a href="#2-4-Edge-based-relaxed-clique-models" class="headerlink" title="2.4 Edge-based relaxed clique models"></a>2.4 Edge-based relaxed clique models</h2><h3 id="2-4-1-K-defective-clique"><a href="#2-4-1-K-defective-clique" class="headerlink" title="2.4.1 K-defective-clique"></a>2.4.1 K-defective-clique</h3><p>Paper: <a href="https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btl014">Predicting interactions in protein networks by completing defective cliques</a><br>Conference/Journal: Bioinformatics, 2006</p>
+<h3 id="2-4-2-gamma-quasi-clique"><a href="#2-4-2-gamma-quasi-clique" class="headerlink" title="2.4.2 $\gamma$-quasi-clique"></a>2.4.2 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.489ex;" xmlns="http://www.w3.org/2000/svg" width="1.229ex" height="1.486ex" role="img" focusable="false" viewBox="0 -441 543 657"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D6FE" d="M31 249Q11 249 11 258Q11 275 26 304T66 365T129 418T206 441Q233 441 239 440Q287 429 318 386T371 255Q385 195 385 170Q385 166 386 166L398 193Q418 244 443 300T486 391T508 430Q510 431 524 431H537Q543 425 543 422Q543 418 522 378T463 251T391 71Q385 55 378 6T357 -100Q341 -165 330 -190T303 -216Q286 -216 286 -188Q286 -138 340 32L346 51L347 69Q348 79 348 100Q348 257 291 317Q251 355 196 355Q148 355 108 329T51 260Q49 251 47 251Q45 249 31 249Z"></path></g></g></g></svg></mjx-container>-quasi-clique</h3><p>Paper1: <a href="https://doi.org/10.1145/1081870.1081898">On mining cross-graph quasi-cliques</a><br>Conference/Journal: KDD, 2005<br>Paper2: <a href="https://doi.org/10.1145/1150402.1150506">Coherent closed quasi-clique discovery from large dense graph databases</a><br>Conference/Journal: KDD, 2006</p>
+<p>##2.5 Triangulation-based relaxed clique models</p>
+<h3 id="2-5-1-DN-graph"><a href="#2-5-1-DN-graph" class="headerlink" title="2.5.1 DN-graph"></a>2.5.1 DN-graph</h3><p>Paper: <a href="https://doi.org/10.14778/1921071.1921073">On triangulation-based dense neighborhood graph discovery</a><br>Conference/Journal: Proceedings of the VLDB Endowment, 2010</p>
+<h3 id="2-5-2-K-truss"><a href="#2-5-2-K-truss" class="headerlink" title="2.5.2 K-truss"></a>2.5.2 K-truss</h3><p>Paper: <a href="https://dl.acm.org/doi/10.14778/2311906.2311909">Truss decomposition in massive networks</a><br>Conference/Journal: Proceedings of the VLDB Endowment, 2012</p>
+]]></content>
+      <categories>
+        <category>Collection</category>
+      </categories>
+      <tags>
+        <tag>Collection</tag>
+        <tag>Cohesive Subgraph</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Mobile3DRecon</title>
     <url>/papernote/Mobile3DRecon/</url>
     <content><![CDATA[<p>对论文 Mobile3DRecon:Real-time Monocular 3D Reconstruction on a Mobile Phone (TVCG, 2020) 的阅读整理。</p>
@@ -445,29 +479,6 @@
       <tags>
         <tag>Paper Note</tag>
         <tag>Hello World</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Cohesive Subgraph</title>
-    <url>/collection/Cohesive-Subgraph/</url>
-    <content><![CDATA[<p>A collection note about papers in the field of cohesive subgraph search</p>
-<span id="more"></span>
-
-<center><b><font size="9>Cohesive" Subgraph="" Search</font=""></font></b></center>
-
-<h1 id="1-Preface"><a href="#1-Preface" class="headerlink" title="1 Preface"></a>1 Preface</h1><ul>
-<li>All of the data is from Internet or webpages, so I can’t make sure that all of the information is right. If there are some errors, please leave your advice and evidence in issue, I will revise the document as immediately as possible, which is based on your right or convincing advice and evidence.</li>
-<li>It is not easy and troublesome to organize the data. Please give me a <code>star</code> if you like it.</li>
-</ul>
-<h1 id="2-Paper"><a href="#2-Paper" class="headerlink" title="2  Paper"></a>2  Paper</h1><h2 id="2-1-K-core"><a href="#2-1-K-core" class="headerlink" title="2.1  K-core"></a>2.1  K-core</h2><p>Paper1: <a href="https://ieeexplore.ieee.org/document/5767911">Efficient core decomposition in massive networks</a><br>Conference/Journal: ICDE, 2011<br>Paper2: <a href="https://ieeexplore.ieee.org/document/6613492">Efficient Core Maintenance in Large Dynamic Graphs</a><br>Conference/Journal: TKDE, 2013</p>
-<h2 id="2-2-K-plex"><a href="#2-2-K-plex" class="headerlink" title="2.2  K-plex"></a>2.2  K-plex</h2><p>Paper: <a href="https://www.tandfonline.com/doi/abs/10.1080/0022250X.1978.9989883">A graph‐theoretic generalization of the clique concept</a><br>Conference/Journal: The Journal of Mathematical Sociology, 1978</p>
-]]></content>
-      <categories>
-        <category>Collection</category>
-      </categories>
-      <tags>
-        <tag>Collection</tag>
-        <tag>Cohesive Subgraph</tag>
       </tags>
   </entry>
 </search>
