@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://carissa05.github.io/papernote/Colorful-h-star/</loc>
+    
+    <lastmod>2023-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://carissa05.github.io/papernote/HypercoreMaintenance/</loc>
     
     <lastmod>2023-01-31</lastmod>
@@ -37,15 +46,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://carissa05.github.io/papernote/Hello-world/</loc>
-    
-    <lastmod>2023-01-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://carissa05.github.io/</loc>
@@ -63,14 +63,28 @@
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/tags/Hypergraph/</loc>
+    <loc>http://carissa05.github.io/tags/H-clique-Densest-Subgraph/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/tags/Graph-Analytics/</loc>
+    <loc>http://carissa05.github.io/tags/H-clique-Core/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://carissa05.github.io/tags/Coloring-Algorithm/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://carissa05.github.io/tags/DP-Algorithm/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -91,7 +105,14 @@
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/tags/Hello-World/</loc>
+    <loc>http://carissa05.github.io/tags/Hypergraph/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://carissa05.github.io/tags/Graph-Analytics/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

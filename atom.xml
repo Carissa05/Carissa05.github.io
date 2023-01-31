@@ -6,7 +6,7 @@
   <link href="http://carissa05.github.io/atom.xml" rel="self"/>
   
   <link href="http://carissa05.github.io/"/>
-  <updated>2023-01-28T07:34:42.673Z</updated>
+  <updated>2023-01-30T04:26:05.039Z</updated>
   <id>http://carissa05.github.io/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello-world</title>
-    <link href="http://carissa05.github.io/papernote/Hello-world/"/>
-    <id>http://carissa05.github.io/papernote/Hello-world/</id>
-    <published>2023-01-28T06:06:31.000Z</published>
-    <updated>2023-01-28T07:34:42.673Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;对论文 hello world的整理&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
-    
-    
-    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
-    
-    <category term="Hello World" scheme="http://carissa05.github.io/tags/Hello-World/"/>
-    
-  </entry>
   
   <entry>
     <title>the Origin of Cohesive Subgraph</title>
@@ -59,11 +38,40 @@
   </entry>
   
   <entry>
+    <title>Colorful-h-star</title>
+    <link href="http://carissa05.github.io/papernote/Colorful-h-star/"/>
+    <id>http://carissa05.github.io/papernote/Colorful-h-star/</id>
+    <published>2022-10-19T15:43:05.000Z</published>
+    <updated>2023-01-31T15:52:50.242Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;对论文Colorful h-star Core Decomposition(ICDE, 2022) 的阅读整理。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
+    
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
+    
+    <category term="H-clique Densest Subgraph" scheme="http://carissa05.github.io/tags/H-clique-Densest-Subgraph/"/>
+    
+    <category term="H-clique Core" scheme="http://carissa05.github.io/tags/H-clique-Core/"/>
+    
+    <category term="Coloring Algorithm" scheme="http://carissa05.github.io/tags/Coloring-Algorithm/"/>
+    
+    <category term="DP Algorithm" scheme="http://carissa05.github.io/tags/DP-Algorithm/"/>
+    
+    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hypercore Maintenance</title>
     <link href="http://carissa05.github.io/papernote/HypercoreMaintenance/"/>
     <id>http://carissa05.github.io/papernote/HypercoreMaintenance/</id>
     <published>2022-09-20T15:03:10.000Z</published>
-    <updated>2023-01-31T15:24:58.412Z</updated>
+    <updated>2023-01-31T15:40:15.308Z</updated>
     
     
     <summary type="html">&lt;p&gt;对论文Hypercore Maintenance in Dynamic Hypergraphs (ICDE, 2021) 的阅读整理。&lt;/p&gt;</summary>
@@ -75,11 +83,11 @@
     
     <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
     
+    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
     <category term="Hypergraph" scheme="http://carissa05.github.io/tags/Hypergraph/"/>
     
     <category term="Graph Analytics" scheme="http://carissa05.github.io/tags/Graph-Analytics/"/>
-    
-    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
     
   </entry>
   
