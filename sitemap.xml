@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/papernote/Colorful-h-star/</loc>
+    <loc>http://carissa05.github.io/papernote/HypercoreMaintenance/</loc>
     
     <lastmod>2023-01-31</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/papernote/HypercoreMaintenance/</loc>
+    <loc>http://carissa05.github.io/papernote/Colorful-h-star/</loc>
     
     <lastmod>2023-01-31</lastmod>
     
@@ -74,20 +74,6 @@
 
   
   <url>
-    <loc>http://carissa05.github.io/tags/Collection/</loc>
-    <lastmod>2023-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://carissa05.github.io/tags/Cohesive-Subgraph/</loc>
-    <lastmod>2023-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://carissa05.github.io/tags/Paper-Note/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,6 +109,13 @@
   </url>
   
   <url>
+    <loc>http://carissa05.github.io/tags/Cohesive-Subgraph/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://carissa05.github.io/tags/Pattern-Densest-Subgraph/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -131,20 +124,6 @@
   
   <url>
     <loc>http://carissa05.github.io/tags/Approximation-Algorithm/</loc>
-    <lastmod>2023-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://carissa05.github.io/tags/Hypergraph/</loc>
-    <lastmod>2023-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://carissa05.github.io/tags/Graph-Analytics/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -164,17 +143,38 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://carissa05.github.io/categories/Collection/</loc>
+    <loc>http://carissa05.github.io/tags/Collection/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>http://carissa05.github.io/tags/Hypergraph/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://carissa05.github.io/tags/Graph-Analytics/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>http://carissa05.github.io/categories/Paper-Note/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://carissa05.github.io/categories/Collection/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
