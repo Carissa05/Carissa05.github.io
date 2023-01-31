@@ -59,11 +59,11 @@
   </entry>
   
   <entry>
-    <title>HypercoreMaintenance</title>
+    <title>Hypercore Maintenance</title>
     <link href="http://carissa05.github.io/papernote/HypercoreMaintenance/"/>
     <id>http://carissa05.github.io/papernote/HypercoreMaintenance/</id>
     <published>2022-09-20T15:03:10.000Z</published>
-    <updated>2023-01-31T15:07:53.191Z</updated>
+    <updated>2023-01-31T15:14:13.209Z</updated>
     
     
     <summary type="html">&lt;p&gt;对论文Hypercore Maintenance in Dynamic Hypergraphs (ICDE, 2021) 的阅读整理。&lt;/p&gt;</summary>
@@ -73,9 +73,9 @@
     <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
     
     
-    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
-    
     <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
     
     <category term="Hypergraph" scheme="http://carissa05.github.io/tags/Hypergraph/"/>
     
