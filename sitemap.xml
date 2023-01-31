@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://carissa05.github.io/papernote/Eff-Alg-Densest-Subgraph/</loc>
+    
+    <lastmod>2023-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://carissa05.github.io/papernote/Colorful-h-star/</loc>
     
     <lastmod>2023-01-31</lastmod>
@@ -56,6 +65,20 @@
 
   
   <url>
+    <loc>http://carissa05.github.io/tags/Collection/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://carissa05.github.io/tags/Cohesive-Subgraph/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://carissa05.github.io/tags/Paper-Note/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -91,14 +114,14 @@
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/tags/Cohesive-Subgraph/</loc>
+    <loc>http://carissa05.github.io/tags/Pattern-Densest-Subgraph/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/tags/Collection/</loc>
+    <loc>http://carissa05.github.io/tags/Approximation-Algorithm/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -121,14 +144,14 @@
 
   
   <url>
-    <loc>http://carissa05.github.io/categories/Paper-Note/</loc>
+    <loc>http://carissa05.github.io/categories/Collection/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://carissa05.github.io/categories/Collection/</loc>
+    <loc>http://carissa05.github.io/categories/Paper-Note/</loc>
     <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

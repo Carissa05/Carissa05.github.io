@@ -31,9 +31,36 @@
     <category term="Collection" scheme="http://carissa05.github.io/categories/Collection/"/>
     
     
+    <category term="Collection" scheme="http://carissa05.github.io/tags/Collection/"/>
+    
     <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
     
-    <category term="Collection" scheme="http://carissa05.github.io/tags/Collection/"/>
+  </entry>
+  
+  <entry>
+    <title>Efficient Algorithms for Densest Subgraph Discovery</title>
+    <link href="http://carissa05.github.io/papernote/Eff-Alg-Densest-Subgraph/"/>
+    <id>http://carissa05.github.io/papernote/Eff-Alg-Densest-Subgraph/</id>
+    <published>2022-11-22T16:02:52.000Z</published>
+    <updated>2023-01-31T16:16:45.834Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;对论文Efficient Algorithms for Densest Subgraph Discovery (Proceedings of the VLDB Endowment, 2019) 的阅读整理。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
+    
+    
+    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
+    
+    <category term="H-clique Densest Subgraph" scheme="http://carissa05.github.io/tags/H-clique-Densest-Subgraph/"/>
+    
+    <category term="Pattern Densest Subgraph" scheme="http://carissa05.github.io/tags/Pattern-Densest-Subgraph/"/>
+    
+    <category term="Approximation Algorithm" scheme="http://carissa05.github.io/tags/Approximation-Algorithm/"/>
     
   </entry>
   
@@ -52,6 +79,8 @@
     <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
     
     
+    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
     <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
     
     <category term="H-clique Densest Subgraph" scheme="http://carissa05.github.io/tags/H-clique-Densest-Subgraph/"/>
@@ -61,8 +90,6 @@
     <category term="Coloring Algorithm" scheme="http://carissa05.github.io/tags/Coloring-Algorithm/"/>
     
     <category term="DP Algorithm" scheme="http://carissa05.github.io/tags/DP-Algorithm/"/>
-    
-    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
     
   </entry>
   
@@ -81,9 +108,9 @@
     <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
     
     
-    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
-    
     <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
     
     <category term="Hypergraph" scheme="http://carissa05.github.io/tags/Hypergraph/"/>
     
