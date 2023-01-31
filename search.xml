@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hypercore Maintenance</title>
+    <url>/papernote/HypercoreMaintenance/</url>
+    <content><![CDATA[<p>对论文Hypercore Maintenance in Dynamic Hypergraphs (ICDE, 2021) 的阅读整理。</p>
+<span id="more"></span>
+
+<embed src="./HypercoreMaintenance.pdf" width="100%" height="5000" type="application/pdf">]]></content>
+      <categories>
+        <category>Paper Note</category>
+      </categories>
+      <tags>
+        <tag>Paper Note</tag>
+        <tag>Hypergraph</tag>
+        <tag>Graph Analytics</tag>
+        <tag>Cohesive Subgraph</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>the Origin of Cohesive Subgraph</title>
     <url>/collection/Cohesive-Subgraph/</url>
     <content><![CDATA[<p>A collection note about the origin of the study of cohesive subgraph search</p>
@@ -30,8 +47,8 @@
         <category>Collection</category>
       </categories>
       <tags>
-        <tag>Collection</tag>
         <tag>Cohesive Subgraph</tag>
+        <tag>Collection</tag>
       </tags>
   </entry>
   <entry>
@@ -56,23 +73,6 @@
       <tags>
         <tag>Paper Note</tag>
         <tag>Hello World</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hypercore Maintenance</title>
-    <url>/papernote/HypercoreMaintenance/</url>
-    <content><![CDATA[<p>对论文Hypercore Maintenance in Dynamic Hypergraphs (ICDE, 2021) 的阅读整理。</p>
-<span id="more"></span>
-
-<embed src="/HypercoreMaintenance/HypercoreMaintenance.pdf" width="100%" height="5000" type="application/pdf">]]></content>
-      <categories>
-        <category>Paper Note</category>
-      </categories>
-      <tags>
-        <tag>Cohesive Subgraph</tag>
-        <tag>Paper Note</tag>
-        <tag>Hypergraph</tag>
-        <tag>Graph Analytics</tag>
       </tags>
   </entry>
 </search>
