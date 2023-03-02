@@ -6,7 +6,7 @@
   <link href="http://carissa05.github.io/atom.xml" rel="self"/>
   
   <link href="http://carissa05.github.io/"/>
-  <updated>2023-01-30T04:26:05.039Z</updated>
+  <updated>2023-03-02T07:53:14.815Z</updated>
   <id>http://carissa05.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Locally-densest subgraph</title>
+    <link href="http://carissa05.github.io/null/Locally-densest-subgraph/"/>
+    <id>http://carissa05.github.io/null/Locally-densest-subgraph/</id>
+    <published>2023-03-02T07:48:27.000Z</published>
+    <updated>2023-03-02T07:53:14.815Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;对论文Locally Densest Subgraph Discovery (KDD,2015) 的阅读整理。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
+    
+    
+    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
+    
+    <category term="Graph Analytics" scheme="http://carissa05.github.io/tags/Graph-Analytics/"/>
+    
+    <category term="Dense Subgraph" scheme="http://carissa05.github.io/tags/Dense-Subgraph/"/>
+    
+  </entry>
   
   <entry>
     <title>the Origin of Cohesive Subgraph</title>
@@ -31,9 +56,9 @@
     <category term="Collection" scheme="http://carissa05.github.io/categories/Collection/"/>
     
     
-    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
-    
     <category term="Collection" scheme="http://carissa05.github.io/tags/Collection/"/>
+    
+    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
     
   </entry>
   
@@ -52,9 +77,9 @@
     <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
     
     
-    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
-    
     <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
     
     <category term="Approximation Algorithm" scheme="http://carissa05.github.io/tags/Approximation-Algorithm/"/>
     
@@ -79,11 +104,11 @@
     <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
     
     
+    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
     <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
     
     <category term="H-clique Densest Subgraph" scheme="http://carissa05.github.io/tags/H-clique-Densest-Subgraph/"/>
-    
-    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
     
     <category term="Pattern Densest Subgraph" scheme="http://carissa05.github.io/tags/Pattern-Densest-Subgraph/"/>
     
@@ -106,6 +131,8 @@
     <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
     
     
+    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
     <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
     
     <category term="H-clique Densest Subgraph" scheme="http://carissa05.github.io/tags/H-clique-Densest-Subgraph/"/>
@@ -115,8 +142,6 @@
     <category term="Coloring Algorithm" scheme="http://carissa05.github.io/tags/Coloring-Algorithm/"/>
     
     <category term="DP Algorithm" scheme="http://carissa05.github.io/tags/DP-Algorithm/"/>
-    
-    <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
     
   </entry>
   
@@ -135,9 +160,9 @@
     <category term="Paper Note" scheme="http://carissa05.github.io/categories/Paper-Note/"/>
     
     
-    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
-    
     <category term="Cohesive Subgraph" scheme="http://carissa05.github.io/tags/Cohesive-Subgraph/"/>
+    
+    <category term="Paper Note" scheme="http://carissa05.github.io/tags/Paper-Note/"/>
     
     <category term="Hypergraph" scheme="http://carissa05.github.io/tags/Hypergraph/"/>
     

@@ -1,64 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Colorful-h-star</title>
-    <url>/papernote/Colorful-h-star/</url>
-    <content><![CDATA[<p>对论文Colorful h-star Core Decomposition(ICDE, 2022) 的阅读整理。</p>
-<span id="more"></span>
-
-<embed src="./Colorful-h-star-Core-Decomposition.pdf" width="100%" height="877" type="application/pdf">
-
-]]></content>
-      <categories>
-        <category>Paper Note</category>
-      </categories>
-      <tags>
-        <tag>Paper Note</tag>
-        <tag>H-clique Densest Subgraph</tag>
-        <tag>H-clique Core</tag>
-        <tag>Coloring Algorithm</tag>
-        <tag>DP Algorithm</tag>
-        <tag>Cohesive Subgraph</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Efficient Algorithms for Densest Subgraph Discovery</title>
-    <url>/papernote/Eff-Alg-Densest-Subgraph/</url>
-    <content><![CDATA[<p>对论文Efficient Algorithms for Densest Subgraph Discovery (Proceedings of the VLDB Endowment, 2019) 的阅读整理。</p>
-<span id="more"></span>
-
-<embed src="./Efficient_Algorithms_for_Densest_Subgraph.pdf" width="100%" height="877" type="application/pdf">
-]]></content>
-      <categories>
-        <category>Paper Note</category>
-      </categories>
-      <tags>
-        <tag>Paper Note</tag>
-        <tag>H-clique Densest Subgraph</tag>
-        <tag>Cohesive Subgraph</tag>
-        <tag>Pattern Densest Subgraph</tag>
-        <tag>Approximation Algorithm</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs</title>
-    <url>/papernote/Eff-Alg-Directed-Densest-Subgraph/</url>
-    <content><![CDATA[<p>对论文Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs (SIGMOD, 2020) 的阅读整理。</p>
-<span id="more"></span>
-
-<embed src="./Efficient_Algorithms_on_Large_Directed_Graphs.pdf" width="100%" height="877" type="application/pdf">]]></content>
-      <categories>
-        <category>Paper Note</category>
-      </categories>
-      <tags>
-        <tag>Paper Note</tag>
-        <tag>Cohesive Subgraph</tag>
-        <tag>Approximation Algorithm</tag>
-        <tag>Densest Subgraph</tag>
-        <tag>Directed Graph</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>the Origin of Cohesive Subgraph</title>
     <url>/collection/Cohesive-Subgraph/</url>
     <content><![CDATA[<p>A collection note about the origin of the study of cohesive subgraph search</p>
@@ -88,8 +30,45 @@
         <category>Collection</category>
       </categories>
       <tags>
-        <tag>Cohesive Subgraph</tag>
         <tag>Collection</tag>
+        <tag>Cohesive Subgraph</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Efficient Algorithms for Densest Subgraph Discovery</title>
+    <url>/papernote/Eff-Alg-Densest-Subgraph/</url>
+    <content><![CDATA[<p>对论文Efficient Algorithms for Densest Subgraph Discovery (Proceedings of the VLDB Endowment, 2019) 的阅读整理。</p>
+<span id="more"></span>
+
+<embed src="./Efficient_Algorithms_for_Densest_Subgraph.pdf" width="100%" height="877" type="application/pdf">
+]]></content>
+      <categories>
+        <category>Paper Note</category>
+      </categories>
+      <tags>
+        <tag>Cohesive Subgraph</tag>
+        <tag>Paper Note</tag>
+        <tag>H-clique Densest Subgraph</tag>
+        <tag>Pattern Densest Subgraph</tag>
+        <tag>Approximation Algorithm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs</title>
+    <url>/papernote/Eff-Alg-Directed-Densest-Subgraph/</url>
+    <content><![CDATA[<p>对论文Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs (SIGMOD, 2020) 的阅读整理。</p>
+<span id="more"></span>
+
+<embed src="./Efficient_Algorithms_on_Large_Directed_Graphs.pdf" width="100%" height="877" type="application/pdf">]]></content>
+      <categories>
+        <category>Paper Note</category>
+      </categories>
+      <tags>
+        <tag>Cohesive Subgraph</tag>
+        <tag>Paper Note</tag>
+        <tag>Approximation Algorithm</tag>
+        <tag>Densest Subgraph</tag>
+        <tag>Directed Graph</tag>
       </tags>
   </entry>
   <entry>
@@ -103,10 +82,49 @@
         <category>Paper Note</category>
       </categories>
       <tags>
-        <tag>Paper Note</tag>
         <tag>Cohesive Subgraph</tag>
+        <tag>Paper Note</tag>
         <tag>Hypergraph</tag>
         <tag>Graph Analytics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Colorful-h-star</title>
+    <url>/papernote/Colorful-h-star/</url>
+    <content><![CDATA[<p>对论文Colorful h-star Core Decomposition(ICDE, 2022) 的阅读整理。</p>
+<span id="more"></span>
+
+<embed src="./Colorful-h-star-Core-Decomposition.pdf" width="100%" height="877" type="application/pdf">
+
+]]></content>
+      <categories>
+        <category>Paper Note</category>
+      </categories>
+      <tags>
+        <tag>Cohesive Subgraph</tag>
+        <tag>Paper Note</tag>
+        <tag>H-clique Densest Subgraph</tag>
+        <tag>H-clique Core</tag>
+        <tag>Coloring Algorithm</tag>
+        <tag>DP Algorithm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Locally-densest subgraph</title>
+    <url>/null/Locally-densest-subgraph/</url>
+    <content><![CDATA[<p>对论文Locally Densest Subgraph Discovery (KDD,2015) 的阅读整理。</p>
+<span id="more"></span>
+
+<embed src="./Locally-densest-subgraph-discovery-ppt.pdf" width="100%" height="877" type="application/pdf">
+]]></content>
+      <categories>
+        <category>Paper Note</category>
+      </categories>
+      <tags>
+        <tag>Cohesive Subgraph</tag>
+        <tag>Paper Note</tag>
+        <tag>Graph Analytics</tag>
+        <tag>Dense Subgraph</tag>
       </tags>
   </entry>
 </search>
